@@ -1,5 +1,5 @@
 #Logistic Regression
-##Classification
+
 1. No linear regression for classification
 
 2. Decision Boundary is drawn from hypothesis function after fitting the $$\theta$$ parameters
