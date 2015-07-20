@@ -23,3 +23,4 @@
    - multiclass classification using neural networks is an extension of one vs. all method.
 
 6. MATLAB: fmincg(better for large no. of features)
+7. Symmetry Breaking

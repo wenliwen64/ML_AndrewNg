@@ -36,6 +36,7 @@
        - improve hypothesis output threshold(0.5->0.9): improve precision, decrease the recall
        - lower threshold,: avoid false negatives
        - like ROC/ plot precision vs. recall;
-       - how to decide->F_1 score: $$F_1=2\frac{PR}{P+R}$$ better test on cv dataset to choose the right one
+       - how to decide->$$F_1$$ score: $$F_1=2\frac{PR}{P+R}$$ better test on cv dataset to choose the right one
 4. Data for machine learning：
    - Large data rationale: 1. use learning algo with many features(, manually look at the data if feature is enouth for human expert.low bias)； 2. and use a very large training set(low variance);
+

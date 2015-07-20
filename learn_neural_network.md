@@ -39,3 +39,4 @@
        - Implement backprop to compute partial derivatives $$\frac{\partial J(\Theta)}{\partial \Theta}$$
        - Use gradient chacking to check
        - Use gradient descent or advanced optimization medhotd with backprop to minimize $$J(\Theta)$$ as function of $$\Theta$$(if $$J(\Theta)$$ is non-convex, may stuck in local minimum)
+
